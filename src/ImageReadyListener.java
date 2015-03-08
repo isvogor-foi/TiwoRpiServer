@@ -1,5 +1,4 @@
 
-
 public class ImageReadyListener {
 	public void onMessageRecieved(String message){
 		System.out.println("Event captured (Java): " + message);

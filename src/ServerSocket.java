@@ -63,11 +63,13 @@ public class ServerSocket {
 		public void received(Connection connection, Object object) {
 			if (object instanceof RpiExchangePackage) {
 				RpiExchangePackage request = (RpiExchangePackage) object;
-				System.out.println("Recieved: " + request.getMessage() + ", " + request.getFpgaCommand());
+				System.out.println("Received: " + request.getMessage() + ", " + request.getFpgaCommand());
 				
 				// send image for processing...
 				try {
-					imageProcessor.processImage(request.img, request.getFpgaCommand());
+					ImageProcessor ipc = new ImageProcessor();
+					System.out.println("New image processor (server-java)");
+					ipc.processImage(request.img, request.getFpgaCommand());
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
