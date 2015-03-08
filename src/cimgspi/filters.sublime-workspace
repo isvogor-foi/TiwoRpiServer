@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input_filter"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"JNI",
+				"JNICALL"
+			],
+			[
+				"di",
+				"Dilate"
+			],
+			[
+				"filtering_",
+				"filtering_chain"
+			],
+			[
+				"new",
+				"new_filter"
+			],
+			[
+				"I",
+				"ITest"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 3467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 1157,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/logi/Makefile",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/Makefile",
+		"/home/ivan/rpi/logi/c/logipilib.c",
+		"/home/ivan/rpi/logi/c/logilib.h",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/logi/jpeg_func.cpp",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/logi/jpeg_func.h",
+		"/home/ivan/rpi/fpga-logi-c/logi/test.cpp",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/logi/image_demo.cpp",
+		"/home/ivan/rpi/logi/c/logibonelib.c",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/dilate.h",
+		"/home/ivan/Dev/C/workspace/fpga-logi/logi-projects/logi-machine-vision/sw/jpeg_func.c",
+		"/home/ivan/Dev/C/workspace/fpga-logi/logi-projects/logi-machine-vision/sw/Makefile",
+		"/home/ivan/Dev/C/workspace/fpga-logi/logi-projects/logi-machine-vision/sw/image_demo.c",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/main.cpp",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/jpeg_func.h",
+		"/home/ivan/Dev/C/workspace/c-fpga-logi/jpeg_func.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/main.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/logi/jpeg_func.c",
+		"/home/ivan/Dev/C/workspace/ctest/logi/Makefile",
+		"/home/ivan/Dev/C/workspace/ctest/logi/image_demo.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/Makefile",
+		"/home/ivan/Dev/C/workspace/ctest/logi/jpeg_func.h",
+		"/home/ivan/Dev/C/workspace/ctest/logi/image_demo.c",
+		"/home/ivan/Dev/java/workspace/JNITest/src/Hello.c",
+		"/home/ivan/Dev/java/workspace/JNITest/src/Hello.h",
+		"/home/ivan/Dev/java/workspace/JNITest/src/HelloJNI.c",
+		"/home/ivan/Dev/java/workspace/JNITest/src/HelloJNI.h",
+		"/home/ivan/Dev/C/workspace/ctest/dilate.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/dilate.h",
+		"/home/ivan/Dev/C/workspace/ctest/erode.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/gauss.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/hyst.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/output.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/sobel.cpp",
+		"/home/ivan/Dev/C/workspace/ctest/sobel.h",
+		"/home/ivan/Dev/C/workspace/ctest/output.h",
+		"/home/ivan/Dev/C/workspace/ctest/hyst.h",
+		"/home/ivan/Dev/C/workspace/ctest/gauss.h",
+		"/home/ivan/Dev/C/workspace/ctest/erode.h",
+		"/home/ivan/Dev/C/workspace/ctest/filters.h",
+		"/home/ivan/Dev/C/workspace/ctest/sobel",
+		"/home/ivan/Dev/C/workspace/ctest/main",
+		"/home/ivan/Dev/C/workspace/logi-testII/image_demo.cpp",
+		"/home/ivan/Dev/C/workspace/logi-testII/filter.h",
+		"/home/ivan/Dev/C/workspace/logi-testII/filter.cpp",
+		"/home/ivan/Dev/C/workspace/logi-testII/jpeg_func.h",
+		"/home/ivan/Dev/C/workspace/logi-testII/jpeg_func.cpp",
+		"/home/ivan/Dev/C/workspace/logi-testII/image_demo.h",
+		"/home/ivan/Dev/C/workspace/logi-testII/Makefile",
+		"/home/ivan/Dev/C/workspace/logi-testII/image_demo.c",
+		"/home/ivan/Dev/C/workspace/logi/main.cpp",
+		"/home/ivan/Dev/C/workspace/logi/filter.cpp",
+		"/home/ivan/Dev/C/workspace/logi/hystogram.cpp",
+		"/home/ivan/Dev/C/workspace/logi/sobel.cpp",
+		"/home/ivan/Dev/C/workspace/logi/ITest.cpp",
+		"/home/ivan/Dev/C/workspace/logi/Filters.cpp"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"++){\n",
+			"logi",
+			"mem",
+			"memcpy",
+			"arm_jpeg_func",
+			"arm_image_demo",
+			"g++ -c",
+			"char",
+			"short",
+			"make_row",
+			"jni",
+			"source->getName()",
+			"Erode",
+			"erode",
+			"Erode",
+			"filterName",
+			"filtering_chain",
+			"previous",
+			"h",
+			"sobel",
+			"Output",
+			"ERODE",
+			"SOBEL",
+			"virtual",
+			"Hyst",
+			"GAUSS",
+			"write_jpegmem",
+			"write_jpegfile",
+			"min"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DILATE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 3467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2660,
+								2660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 1157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 284.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
